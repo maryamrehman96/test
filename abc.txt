@@ -1,9 +1,5 @@
-<localfile>                                               
-  <log_format>syslog</log_format> 
-  <location>/var/log/sniff.log</location> 
-</localfile>
 
-
-
- >> /var/ossec/etc/ossec.conf
-
+  <localfile>                                               
+    <log_format>syslog</log_format> 
+    <location>/var/log/sniff.log</location> 
+  </localfile>
